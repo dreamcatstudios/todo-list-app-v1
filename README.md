@@ -1,5 +1,3 @@
-# todo-list-app-v1
-
 # Todo List App
 
 ## Description
